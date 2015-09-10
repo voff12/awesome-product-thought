@@ -3,15 +3,15 @@ awesome-product-thought
 
 关于创业，关于如何做好产品的一些优秀文章个人收集。
 
-### [先做軟體，不要先做平台](software-first-not-platforms.md)
+### [先做軟體，不要先做平台](software-first-not-platforms/README.md)
 
-这篇文章是我二年前看到的问题，影响比较深刻。  
+这篇文章是我二年前看到的问题，影响比较深刻。
 
 推荐理由：
 
 **解决用户问题才是关键**。
 
-### [Paul Graham：创业=增长](startup-eq-growth/README.md)  
+### [Paul Graham：创业=增长](startup-eq-growth/README.md)
 
 推荐理由：
 
@@ -29,8 +29,14 @@ awesome-product-thought
 **创业过程中，开放式变成封闭式问题的转换能力，是我们真正最需要的能力的核心**。
 
 
-### [迅雷程浩：如果你是滴滴的竞争对手，这场仗应该怎么打](how-to-beat-didi.md)
+### [迅雷程浩：如果你是滴滴的竞争对手，这场仗应该怎么打](how-to-beat-didi/README.md)
 
 推荐理由：
 
-很喜欢"高频打低频，刚需打不刚"这两句话。
+很喜欢『**高频打低频，刚需打不刚**』这两句话。
+
+### [uber 创始人分享](uber-founder-share/README.md)
+
+推荐理由：
+
+**_TODO_**
