@@ -3,7 +3,7 @@ awesome-product-thought
 
 关于创业，关于如何做好产品的一些优秀文章个人收集。
 
-### [先做軟體，不要先做平台](software-first-not-platforms/README.md)
+### [先做软件，不要先做平台](software-first-not-platforms/README.md)
 
 这篇文章是我二年前看到的问题，影响比较深刻。
 
