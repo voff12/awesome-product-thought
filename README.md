@@ -40,3 +40,9 @@ awesome-product-thought
 推荐理由：
 
 做产品或者做服务，得有一个理念存在。这个是"一生二，二生三，三生万物"中的一。
+
+### [极客创业，大有可为](csdn-founder-share/README.md)
+
+推荐理由：
+
+**_TODO_**
