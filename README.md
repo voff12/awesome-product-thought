@@ -46,3 +46,9 @@ awesome-product-thought
 推荐理由：
 
 **_TODO_**
+
+### [魔球，一个搞清楚产业重点的棒球故事](money-ball/README.md)
+
+推荐理由：
+
+**_TODO_**
