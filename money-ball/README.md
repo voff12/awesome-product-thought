@@ -94,7 +94,7 @@ _Billy Beane_ 的故事相信大家都耳熟能详。 _Mr. Jamie_ 整理了五�
 
 我想我从这些故事里，领悟到的是：『你要靠卖鸡排赚钱就不要免费；你要靠卖鸡排赚大钱就应该努力去把鸡排炸的很好吃，让更多人主动冲来买; 而租个豪华大摊位，挖个五星级厨师、开发榴梿鸡排口味，客人不一定会更多，但更有可能的是会让你亏到死而已...』 。
 
-我不知道你会在[魔球这本书](http://www.books.com.tw/exep/prod/booksfile.php?item=0010522666) 和[这场Talk](http://37signals.com /speaks#startupschool) 里看到什么。
+我不知道你会在[魔球这本书](http://www.books.com.tw/exep/prod/booksfile.php?item=0010522666) 和[这场Talk](http://37signals.com/speaks#startupschool) 里看到什么。
 
 希望有机会看到你想追求的答案。
 
