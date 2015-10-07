@@ -52,3 +52,21 @@ awesome-product-thought
 推荐理由：
 
 **_TODO_**
+
+### [打造亿级产品的三个必杀技](apus-founder-share/README.md)
+
+推荐理由：
+
+**_TODO_**
+
+### [李想创业分享：做正确的事，不做容易的事](autohome-founder-share/README.md)
+
+推荐理由：
+
+**_TODO_**
+
+### [`WhatsApp`目前拥有9亿用户，但为何只需要50名工程师？](whatsapp-serves-900-million-users-50-engineers/README.md)
+
+推荐理由：
+
+**_TODO_**
