@@ -88,3 +88,7 @@ awesome-product-thought
 #### [`Facebook创始人扎克伯格分享创业心路历程`](facebook-founder-share/README.md)
 
 推荐理由：使命、用心、向前看。
+
+#### [`张一鸣南开时光三件事：耐心,知识和伙伴`](toutiao-founder-share/README.md)
+
+推荐理由：讲述了为何诞生今日头条的原因。长期独立思考，类似于禅悟。
