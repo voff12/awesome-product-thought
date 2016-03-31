@@ -92,3 +92,8 @@ awesome-product-thought
 #### [`张一鸣南开时光三件事：耐心,知识和伙伴`](toutiao-founder-share/README.md)
 
 推荐理由：讲述了为何诞生今日头条的原因。长期独立思考，类似于禅悟。
+
+
+#### [`小红书爆红的商业逻辑`](xiaohongshu/README.md)
+
+推荐理由：把握时代细微的需求。
