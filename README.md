@@ -98,7 +98,7 @@ awesome-product-thought
 
 推荐理由：把握时代细微的需求。
 
-#### [`faceu创始人90后郭列的产品思维逻辑`](facebook-founder-share/README.md)
+#### [`faceu创始人90后郭列的产品思维逻辑`](faceu-founder-share/README.md)
 
 推荐理由： 比较喜欢的两句话：
 - 无论是猎豹浏览器，还是其他互联网产品，大部分团队和资源都在做一件非常小的事情，你才能在单点获得一些突破。
